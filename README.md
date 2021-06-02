@@ -21,3 +21,4 @@ a unified diff of what has changed.
 * Documentation: https://urlwatch.readthedocs.io/
 * Website: https://thp.io/2008/urlwatch/
 * E-Mail: m@thp.io
+* This forked version will try to add a Twitter Reporter
